@@ -19,8 +19,8 @@ Full-Stack Software Engineer focused on building scalable, user-centered web app
 - Building scalable and production-ready applications  
 
 ## 📫 Connect with Me
-- LinkedIn: [your-linkedin-link]
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/waweru-kelvin-7749a32b0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSO7ehCuoRsCeWaPAaqQ8Ow%3D%3D
+
 
 ---
 
