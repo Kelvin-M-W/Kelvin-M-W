@@ -2,13 +2,31 @@
 
 Full-Stack Software Engineer focused on building scalable, user-centered web applications.
 
-I specialize in developing modern web applications using Next.js and Django, with a strong focus on clean UI, solid backend architecture, and efficient database design.
+---
 
-Tech Stack:
+## 🧠 About
+I specialize in building modern web applications using **Next.js** and **Django**, with a strong focus on:
+
+- Clean and responsive user interfaces  
+- Solid backend architecture  
+- Efficient database design  
+
+I enjoy turning ideas into real, production-ready systems—from intuitive frontends to reliable backend APIs.
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
 Next.js • React • TypeScript • Tailwind CSS  
+
+### Backend
 Django • Node.js (Express)  
+
+### Databases & Services
 PostgreSQL • MySQL • MongoDB • Supabase  
 
-I enjoy turning ideas into real, production-ready systems—from intuitive interfaces to reliable backend APIs.
+---
 
+## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/waweru-kelvin-7749a32b0/)
