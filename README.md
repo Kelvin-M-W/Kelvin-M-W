@@ -25,7 +25,7 @@ I enjoy turning ideas into real, production-ready systems—from intuitive front
 - **Key Feature:** Custom-built admin dashboard for real-time content management.
 
 ### 2. Gem Barista Studio - Training Portal
-**Status:** Live | **Live Link:** [gembaristastudio.co.ke](https://gembaristastudioke.co.ke/)
+**Status:** Live | **Live Link:** [gembaristastudioke.co.ke](https://gembaristastudioke.co.ke/)
 - **Overview:** A digital enrollment system designed to streamline student registration and course management.
 - **Tech Stack:** Django (Python), HTML5, CSS3, Vanilla JavaScript, PostgreSQL.
 - **Key Feature:** Automated lead generation and secure administrative control panel.
