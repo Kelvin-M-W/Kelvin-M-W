@@ -1,56 +1,153 @@
-# Kelvin 👋
+# Kelvin Mwangi Waweru 👋
 
-Full-Stack Software Engineer focused on building scalable, user-centered web applications.
+**Full-Stack Software Engineer** focused on building modern, scalable, and user-centered software.
+
+I build web applications, business systems, and cross-platform mobile applications, with experience working across frontend development, backend services, databases, APIs, and production deployment.
 
 ---
 
 ## 🧠 About
-I specialize in building modern web applications using **Next.js** and **Django**, with a strong focus on:
 
-- **Clean and responsive user interfaces**
-- **Solid backend architecture**
-- **Efficient database design**
+I specialize in building modern software using **Next.js, React, TypeScript, Django, Python, and PostgreSQL**.
 
-I enjoy turning ideas into real, production-ready systems—from intuitive frontends to reliable backend APIs.
+My work focuses on:
+
+* **Clean, responsive, and user-centered interfaces**
+* **Reusable component-based frontend architecture**
+* **Reliable backend services and APIs**
+* **Database-driven applications and business workflows**
+* **Custom business and management systems**
+* **Cross-platform mobile applications with Flutter**
+
+I enjoy turning ideas and real-world requirements into production-ready software—from designing intuitive interfaces and structuring backend systems to deploying and maintaining complete applications.
 
 ---
 
-## 🚀 Featured Projects (Private Repositories)
+## 🚀 Featured Projects
 
-### 1. Pcone Technologies Corporate Platform
-**Status:** Production | **Live Link:** [pconetechnologies.com](https://pconetechnologies.com/)
-- **Overview:** A fully responsive full-stack platform built for high-performance and business growth.
-- **Tech Stack:** Next.js (App Router), Tailwind CSS, PostgreSQL.
-- **Deployment:** Managed environment configuration and deployment on **Shared Hosting via cPanel**.
-- **Key Feature:** Custom-built admin dashboard for real-time content management.
+### 1. Esuift Solutions — Business & Technology Platform
 
-### 2. Gem Barista Studio - Training Portal
-**Status:** Live | **Live Link:** [gembaristastudioke.co.ke](https://gembaristastudioke.co.ke/)
-- **Overview:** A digital enrollment system designed to streamline student registration and course management.
-- **Tech Stack:** Django (Python), HTML5, CSS3, Vanilla JavaScript, PostgreSQL.
-- **Key Feature:** Automated lead generation and secure administrative control panel.
+**Status:** Production | **Live:** [esuift.com](https://www.esuift.com/)
+
+Esuift Solutions is a technology company focused on building digital products, business websites, and custom software solutions.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, Neon
+
+**Infrastructure & Services:** Vercel, Cloudinary, Cloudflare, Sentry
+
+**Highlights:**
+
+* Full-stack web platform developed with Next.js and TypeScript.
+* Responsive and reusable frontend components.
+* Database-driven content and application workflows.
+* Custom business-focused functionality and administrative features.
+* Cloud-based media management and application monitoring.
+* Production deployment and infrastructure management.
+
+---
+
+### 2. Pcone Technologies — Corporate Platform
+
+**Status:** Production | **Live:** [pconetechnologies.com](https://pconetechnologies.com/)
+
+A full-stack corporate platform designed to provide a professional digital presence and support business growth.
+
+**Tech Stack:** Next.js, React, Tailwind CSS, PostgreSQL, Prisma
+
+**Highlights:**
+
+* Built a responsive full-stack web application using Next.js App Router.
+* Developed reusable UI components and dynamic content functionality.
+* Designed database structures and application workflows.
+* Built a custom administrative dashboard for content management.
+* Managed production deployment through cPanel shared hosting.
+* Optimized the platform for performance and SEO.
+
+---
+
+### 3. Gem Barista Studio — Training Portal
+
+**Status:** Production | **Live:** [gembaristudioke.co.ke](https://gembaristudioke.co.ke/)
+
+A digital training and enrollment platform designed to streamline student registration, course management, and content administration.
+
+**Tech Stack:** Python, Django, PostgreSQL, HTML5, CSS3, JavaScript
+
+**Highlights:**
+
+* Developed both frontend and backend functionality using Django.
+* Built course registration and student enrollment workflows.
+* Developed database-driven content and administrative functionality.
+* Implemented secure administrative controls.
+* Built responsive interfaces and interactive frontend functionality.
+* Optimized the platform for usability and SEO.
+
+---
+
+## 📱 Mobile Development
+
+I also develop cross-platform mobile applications using **Flutter and Dart**.
+
+Areas of experience include:
+
+* Responsive mobile interfaces
+* Reusable Flutter widgets
+* Application navigation and state management
+* API integration
+* Forms and user workflows
+* Connecting mobile applications to backend services
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### Frontend
-Next.js • React • TypeScript • Tailwind CSS • HTML5 • CSS3 • JavaScript (ES6+)
 
-### Backend & Databases
-Django • PostgreSQL • MySQL • MongoDB • Supabase • Neon
+**Next.js • React • TypeScript • JavaScript • Tailwind CSS • HTML5 • CSS3 • Bootstrap**
 
-### Deployment & Infrastructure
-- **Shared Hosting:** Experienced in cost-optimized deployments via **cPanel**.
-- **Cloud & Serverless:** Proficient with **Vercel**, **Render**, **Supabase**, and **Neon** for modern web stacks.
-- **Media Management:** Integration with **Cloudinary** for optimized asset delivery.
-- **Currently Learning:** Transitioning towards **VPS (Virtual Private Server)** management and advanced deployment workflows.
+### Backend
+
+**Django • Python • Node.js • Express.js • REST APIs**
+
+### Mobile
+
+**Flutter • Dart**
+
+### Databases
+
+**PostgreSQL • MySQL • MongoDB • Neon • Supabase • Prisma**
+
+### Cloud, Infrastructure & Services
+
+**Vercel • Cloudinary • Cloudflare • Sentry • cPanel • Render**
+
+### Development Tools
+
+**Git • GitHub**
+
+---
+
+## 💡 Areas of Interest
+
+* Full-Stack Software Engineering
+* Frontend Engineering
+* Business & Management Systems
+* E-commerce Platforms
+* Web Application Development
+* Mobile Application Development
+* API Development
+* Database-Driven Applications
+* Software Architecture
+* Scalable Digital Products
 
 ---
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/waweru-kelvin-7749a32b0/)
+
+**LinkedIn:** [linkedin.com/in/wawerukelvinm](https://www.linkedin.com/in/wawerukelvinm)
+
+**Portfolio:** [esuift.com](https://www.esuift.com/)
 
 ---
 
-> **Note:** Most of my production projects are in private repositories for commercial reasons. I am happy to provide code walkthroughs or discuss architecture decisions upon request.
+> **Note:** Most of my production projects are maintained in private repositories for commercial reasons. I am happy to provide code walkthroughs, discuss architecture decisions, and explain implementation details upon request.
