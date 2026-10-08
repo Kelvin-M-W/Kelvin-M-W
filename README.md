@@ -67,7 +67,7 @@ A full-stack corporate platform designed to provide a professional digital prese
 
 ### 3. Gem Barista Studio — Training Portal
 
-**Status:** Production | **Live:** [gembaristudioke.co.ke](https://gembaristudioke.co.ke/)
+**Status:** Production | **Live:** [gembaristudioke.co.ke](https://gembaristastudioke.co.ke/)
 
 A digital training and enrollment platform designed to streamline student registration, course management, and content administration.
 
