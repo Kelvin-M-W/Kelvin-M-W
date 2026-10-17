@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Dev Waweru Kelvin 👋
+# Dev Waweru Kelvin
 
 ### SOFTWARE ENGINEER | DIGITAL SOLUTIONS DEVELOPER
 
