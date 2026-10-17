@@ -1,244 +1,229 @@
 
 <div align="center">
 
-# Kelvin Mwangi Waweru 👋
+# Dev Waweru Kelvin 👋
 
-### Software Engineer · Full-Stack Development · Exploring Cloud & DevOps
+### SOFTWARE ENGINEER | DIGITAL SOLUTIONS DEVELOPER
 
-I build websites, web applications, and business systems that solve practical problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=FC8310&center=true&vCenter=true&width=800&lines=I+Build+Business+Systems;I+Create+Modern+Websites;I+Develop+Mobile+Applications;I+Build+Scalable+Software+Solutions;I+Work+With+Cloud+Infrastructure" alt="Animated introduction" />
 
-Currently strengthening my skills in **Python, Linux, Cloud Infrastructure, and DevOps** while building real-world software.
+I help businesses solve problems, streamline operations, reach more customers, and grow through software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-esuift.com-fc8310?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.esuift.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wawerukelvinm/)
+**Business Systems · Websites · Mobile Apps · APIs · Cloud & DevOps**
+
+<br/>
+
+<a href="https://www.esuift.com/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-ESUIFT.COM-FC8310?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/wawerukelvinm/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 What I Do
 
-- 🏗️ Building full-stack applications and business management systems.
-- 🎨 Focused on clean interfaces and practical user experiences.
-- ⚙️ Experienced in frontend development, backend services, databases, APIs, and production deployment.
-- ☁️ Learning cloud infrastructure, Linux, Python automation, and DevOps.
-- 📱 Exploring cross-platform mobile development with Flutter and Dart.
+I design and develop digital solutions that help businesses operate efficiently, serve customers better, and build a stronger online presence.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠️ Technologies
+### 🌐 Website Development
 
-### Frontend
+Modern, responsive websites that establish credibility, showcase services, attract customers, and help businesses grow online.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,bootstrap" alt="Frontend technologies" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### Backend
+### ⚙️ Business Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" alt="Backend technologies" />
-</p>
+Custom management systems for sales, inventory, customers, operations, records, and business workflows.
 
-### Mobile Development
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile technologies" />
-</p>
+### 📱 Mobile App Development
 
-### Databases & Data Tools
+Cross-platform mobile applications that connect users to services, information, and business functionality.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase" alt="Database technologies" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### Cloud, Deployment & Tools
+### 🔌 Backend & API Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github" alt="Cloud and development tools" />
-</p>
+Reliable backend services, database-driven applications, integrations, and APIs that power digital products.
 
-<p>
-  <img src="https://img.shields.io/badge/Neon-PostgreSQL%20Platform-00E599?style=flat-square" alt="Neon" />
-  <img src="https://img.shields.io/badge/Cloudinary-Media%20Management-3448C5?style=flat-square" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/Sentry-Monitoring-362D59?style=flat-square" alt="Sentry" />
-  <img src="https://img.shields.io/badge/cPanel-Deployment-FF6C2C?style=flat-square" alt="cPanel" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Infrastructure & DevOps
+
+Application deployment, cloud-based services, infrastructure management, monitoring, and deployment workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Business Automation
+
+Software solutions that reduce repetitive work, streamline processes, and make business operations more manageable.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01. Esuift Solutions
 
-### 🟠 Esuift Solutions
+**Your Digital Growth Partner**
 
-**Business & Technology Platform**
+A technology company focused on helping businesses grow through websites, mobile applications, custom systems, automation, and cloud solutions.
 
-A technology company platform focused on digital products, business websites, and custom software solutions.
+[![Live Website](https://img.shields.io/badge/VIEW_LIVE_WEBSITE-FC8310?style=flat-square&logo=googlechrome&logoColor=white)](https://www.esuift.com/)
 
-**Highlights**
-- Full-stack Next.js application.
-- TypeScript and reusable UI components.
-- Database-driven functionality.
-- Media management and application monitoring.
-- Production deployment and infrastructure management.
+**Key Highlights**
+- Full-stack business and technology platform.
+- Responsive interfaces and reusable components.
+- Database-driven application functionality.
+- Cloud-based media management and security services.
+- Application monitoring and production deployment.
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · PostgreSQL · Neon
+**Technology Stack**
 
-**Infrastructure:** Vercel · Cloudinary · Cloudflare · Sentry
+`Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL` `Neon`
 
-[🌐 Visit Website](https://www.esuift.com/)
+**Infrastructure & Services**
 
-</td>
-<td width="50%" valign="top">
+`Vercel` `Cloudinary` `Cloudflare` `Sentry`
 
-### 🔷 Pcone Technologies
+---
 
-**Corporate Platform**
+### 02. Pcone Technologies
 
-A full-stack corporate platform designed to provide a professional digital presence and support business growth.
+**Corporate Website & Management Platform**
 
-**Highlights**
-- Next.js App Router application.
-- PostgreSQL database and Prisma ORM.
+A full-stack corporate platform built to establish a professional digital presence and support business growth through dynamic content and administrative functionality.
+
+[![Live Website](https://img.shields.io/badge/VIEW_LIVE_WEBSITE-FC8310?style=flat-square&logo=googlechrome&logoColor=white)](https://pconetechnologies.com/)
+
+**Key Highlights**
+- Full-stack application using Next.js App Router.
 - Custom administrative dashboard.
-- Dynamic content management.
+- Database-driven content management.
+- Reusable components and application workflows.
 - Production deployment through cPanel.
-- Performance and SEO improvements.
+- Search engine optimization and responsive design.
 
-**Stack:** Next.js · React · Tailwind CSS · PostgreSQL · Prisma
+**Technology Stack**
 
-[🌐 Visit Website](https://pconetechnologies.com/)
+`Next.js` `React` `Tailwind CSS` `PostgreSQL` `Prisma`
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+---
 
-### ☕ Gem Barista Studio
+### 03. Gem Barista Studio
 
 **Training & Enrollment Portal**
 
-A digital training and enrollment platform designed to streamline student registration, course management, and content administration.
+A digital platform designed to support student enrollment, course management, and administrative operations for a training institution.
 
-**Highlights**
-- Django frontend and backend functionality.
+[![Live Website](https://img.shields.io/badge/VIEW_LIVE_WEBSITE-FC8310?style=flat-square&logo=googlechrome&logoColor=white)](https://gembaristudioke.co.ke/)
+
+**Key Highlights**
+- Django-powered frontend and backend.
 - Student registration and enrollment workflows.
-- Database-driven content management.
+- Database-driven content and course management.
 - Administrative functionality.
-- Responsive interfaces and interactive features.
+- Responsive interfaces and interactive user experiences.
 
-**Stack:** Python · Django · PostgreSQL · HTML5 · CSS3 · JavaScript
+**Technology Stack**
 
-[🌐 Visit Website](https://gembaristudioke.co.ke/)
-
-</td>
-</tr>
-</table>
+`Python` `Django` `PostgreSQL` `HTML5` `CSS3` `JavaScript`
 
 ---
 
-## 📱 Mobile Development
+## 🛠️ Technology Stack
 
-I also work with **Flutter and Dart** to build cross-platform mobile applications.
-
-Areas of focus include:
-
-- Responsive mobile interfaces.
-- Reusable Flutter widgets.
-- Application navigation and state management.
-- API integration.
-- Forms and user workflows.
-- Connecting mobile applications to backend services.
-
----
-
-## 📈 Engineering Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Application Development
-
-Building and maintaining full-stack applications, business websites, and management systems.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Engineering
-
-Developing APIs, database-driven applications, and business workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & DevOps
-
-Learning Linux, Python automation, deployment workflows, and cloud infrastructure.
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile Development
-
-Exploring cross-platform applications with Flutter and Dart.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌱 Currently Growing
-
-I'm strengthening my Python and Linux fundamentals while learning how to automate workflows, deploy applications reliably, and manage cloud infrastructure.
-
-My goal is to combine my full-stack development experience with strong Cloud and DevOps engineering skills.
+### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Automation-fc8310?style=flat-square" alt="Python automation" />
-  <img src="https://img.shields.io/badge/Linux-Learning-fc8310?style=flat-square" alt="Linux learning" />
-  <img src="https://img.shields.io/badge/Cloud-Infrastructure-fc8310?style=flat-square" alt="Cloud infrastructure" />
-  <img src="https://img.shields.io/badge/DevOps-In%20Progress-fc8310?style=flat-square" alt="DevOps learning" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,bootstrap" alt="Frontend technologies"/>
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express" alt="Backend technologies"/>
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development technologies"/>
+</p>
+
+### Databases & Data Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase" alt="Database technologies"/>
+</p>
+
+### Cloud, Deployment & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,github" alt="Cloud and development tools"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Neon-PostgreSQL-00E599?style=flat-square" alt="Neon"/>
+<img src="https://img.shields.io/badge/Cloudinary-Media_Management-3448C5?style=flat-square" alt="Cloudinary"/>
+<img src="https://img.shields.io/badge/Sentry-Application_Monitoring-362D59?style=flat-square" alt="Sentry"/>
+<img src="https://img.shields.io/badge/cPanel-Deployment-FF6C2C?style=flat-square" alt="cPanel"/>
 </p>
 
 ---
 
-## 💡 Areas of Interest
+## 💡 How I Approach Software
 
-- Full-Stack Software Engineering
-- Business & Management Systems
-- Web and Mobile Application Development
-- API Development
-- Database-Driven Applications
-- Software Architecture
-- Cloud Infrastructure & DevOps
-- Automation and Scalable Digital Products
+- **Understand the problem:** Identify the business need before choosing a technical solution.
+- **Design for people:** Build clear, responsive, and intuitive user experiences.
+- **Develop for reliability:** Structure applications around maintainable code, appropriate databases, and sound architecture.
+- **Think beyond development:** Consider deployment, security, performance, and ongoing maintenance.
+- **Focus on value:** Build software that makes work easier, improves access to services, or supports business growth.
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Areas of Expertise & Interest
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wawerukelvinm/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Esuift%20Solutions-fc8310?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.esuift.com/)
-
-</div>
+`Full-Stack Development` · `Business Management Systems` · `Web Applications` · `Mobile Applications` · `REST APIs` · `Database Design` · `Cloud Infrastructure` · `DevOps` · `Business Automation` · `Software Architecture`
 
 ---
 
-> **Note:** Most of my production projects are maintained in private repositories for commercial reasons. I'm happy to provide code walkthroughs, discuss architecture decisions, and explain implementation details upon request.
+## 🤝 Let's Build Something Useful
+
+Have a business challenge, a software idea, or a project that needs a technical solution? Let's connect.
 
 <div align="center">
 
-*Building useful software, learning continuously, and growing one project at a time.*
+<a href="https://www.esuift.com/">
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-FC8310?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my work"/>
+</a>
+<a href="https://www.linkedin.com/in/wawerukelvinm/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+**Dev Waweru Kelvin**  
+*Building digital solutions for businesses.*
 
 </div>
