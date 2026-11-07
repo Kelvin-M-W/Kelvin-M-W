@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=36&duration=4500&pause=1500&color=FC8310&center=true&vCenter=true&width=800&height=65&lines=Dev+Waweru+Kelvin" alt="Dev Waweru Kelvin typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=36&duration=4500&pause=1500&color=FC8310&center=true&vCenter=true&width=800&height=65&lines=Dev+Kelvin" alt="Dev Kelvin typing animation" />
 
-### <code>SOFTWARE ENGINEER // DIGITAL SOLUTIONS DEVELOPER</code>
+### <code>SOFTWARE ENGINEER </code>
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&duration=3000&pause=1000&color=FC8310&center=true&vCenter=true&width=800&height=90&lines=I+Build+Business+Systems;I+Create+Modern+Websites;I+Develop+Mobile+Applications;I+Build+Scalable+Software;I+Work+With+Cloud+Infrastructure" alt="Animated software development specialties" />
 
