@@ -24,7 +24,7 @@ I help businesses solve problems, streamline operations, reach more customers, a
 
 ---
 
-## <code>01 // WHAT I DO</code>
+## <code>01 WHAT I DO</code>
 
 I design and develop digital solutions that help businesses operate efficiently, serve customers better, and build a stronger online presence.
 
@@ -81,7 +81,7 @@ Software solutions that reduce repetitive work, streamline processes, and simpli
 
 ---
 
-## <code>02 // FEATURED PROJECTS</code>
+## <code>02 FEATURED PROJECTS</code>
 
 ### <code>[01] ESUIFT SOLUTIONS</code>
 
@@ -160,7 +160,7 @@ A digital platform designed to support student enrollment, course management, an
 
 ---
 
-## <code>03 // TECHNOLOGY STACK</code>
+## <code>03 TECHNOLOGY STACK</code>
 
 ### <code>FRONTEND</code>
 
@@ -201,7 +201,7 @@ A digital platform designed to support student enrollment, course management, an
 
 ---
 
-## <code>04 // ENGINEERING APPROACH</code>
+## <code>04 ENGINEERING APPROACH</code>
 
 ```text
 01  UNDERSTAND THE PROBLEM
@@ -222,7 +222,7 @@ A digital platform designed to support student enrollment, course management, an
 
 ---
 
-## <code>05 // ENGINEERING FOCUS</code>
+## <code>05 ENGINEERING FOCUS</code>
 
 <table>
 <tr>
@@ -261,7 +261,7 @@ Cross-platform mobile applications and backend integration.
 
 ---
 
-## <code>06 // LET'S CONNECT</code>
+## <code>06 LET'S CONNECT</code>
 
 Have a business challenge, a software idea, or a project that needs a technical solution? Let's connect.
 
